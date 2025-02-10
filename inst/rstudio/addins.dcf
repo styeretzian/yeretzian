@@ -1,0 +1,9 @@
+Name: Glimpse Selected Object
+Description: Runs glimpse() on the currently selected object
+Binding: glimpse_selected
+Interactive: false
+
+Name: Head Selected Object
+Description: Runs head() on the currently selected object
+Binding: head_selected
+Interactive: false
